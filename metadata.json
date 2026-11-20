@@ -1,0 +1,6 @@
+{
+  "name": "Bazooka Chat",
+  "description": "Premium real-time private and group messaging platform with voice messages, media sharing, 24-hour status updates, Arabic RTL/English LTR support, and an audited Owner Super Admin console.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
